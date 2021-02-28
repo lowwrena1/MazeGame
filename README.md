@@ -1,0 +1,2 @@
+# MazeGame
+Javascript Maze Game.
